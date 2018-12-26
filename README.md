@@ -17,6 +17,6 @@ In addition, please ensure that the following modules are installed:
 
 To perform a morphological operation `<operation>`, on an input image `<input>.png`, in the terminal type
 
-`<operation>.py <input>.png <output>.png`.
+`python <operation>.py <input>.png <output>.png`.
 
 Notice that the desired name of the resulting output image is necessary.
