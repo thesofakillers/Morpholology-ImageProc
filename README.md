@@ -2,7 +2,7 @@
 
 Originally made for Durham University's Department of Computer Science's course _Software Methodologies_ under the sub-module _Image Processing_, as part of the coursework in 2017/2018.
 
-This repository contains 4 simple scripts able to perform [morphological](https://en.wikipedia.org/wiki/Mathematical_morphology) [closing](https://en.wikipedia.org/wiki/Closing_(morphology)), [opening](https://en.wikipedia.org/wiki/Opening_(morphology)), [dilation](https://en.wikipedia.org/wiki/Dilation_(morphology)) and [erosion](https://en.wikipedia.org/wiki/Closing_(morphology)) on an input PNG image.
+This repository contains 4 simple scripts able to perform [morphological](https://en.wikipedia.org/wiki/Mathematical_morphology) [closing](https://en.wikipedia.org/wiki/Closing_(morphology)), [opening](https://en.wikipedia.org/wiki/Opening_(morphology)), [dilation](https://en.wikipedia.org/wiki/Dilation_(morphology)) and [erosion](https://en.wikipedia.org/wiki/Erosion_(morphology)) on an input PNG image.
 
 ## Requirements
 
